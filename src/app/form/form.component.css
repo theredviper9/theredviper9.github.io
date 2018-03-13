@@ -1,0 +1,28 @@
+.example-container {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+  }
+
+  .font-colour{
+      color: red;
+      font-size: 30px;
+      font-family: Comic Sans MS, cursive, sans-serif;
+  }
+
+ table{
+      align-items: center;
+  }
+
+p{
+    text-align: center;
+}
